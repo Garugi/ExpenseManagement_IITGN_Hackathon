@@ -1,1 +1,3 @@
-# EnventoryManagement_IITGN_Hackathon
+# ExpenseManagement_IITGN_Hackathon
+
+A comprehensive, multi-currency expense management application built to streamline the entire expense reporting and approval workflow. This system features role-based access for Employees, Managers, and Admins. Employees can submit expenses by uploading receipts, with OCR technology auto-filling details, and can use any currency for their submissions. Managers review expenses in the company's base currency thanks to real-time conversion. Admins have full control, enabling them to create users and define complex, configurable approval rules with sequential or parallel flows, mandatory approvers, and minimum approval thresholds.
